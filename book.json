@@ -1,0 +1,19 @@
+{
+	"title":"Gitbook的安装与使用",
+	"author":"XiaBaowei",
+	"description":"记录Gitbook的安装与使用，Markdown基本语法以及常用目录折叠、编辑此页、评论插件",
+	"language":"zh-hans",
+	"links":{
+		"sidebar":{
+			"Github":""
+		}
+	},
+	
+	"plugins": [
+	"-share",
+	"back-to-top-button",
+	"splitter",
+	"-lunr","-search",
+    "expandable-chapters"
+	]
+}
